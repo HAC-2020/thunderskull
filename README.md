@@ -2,7 +2,7 @@
 
 # Face Mask Detection Using Camera
 
-In this project,we detect person wear face or not using face mask detection in python.
+In this project,we detect person wear face mask or not using face mask detection in python.
 
 Software Requiments for developer side:
 
